@@ -1,0 +1,3 @@
+Oliphest is a semi-regular conference held in Oregon, USA.
+
+This site's look and feel was initially developeed by Joseph Wachira, twitter.com/@jspwcr as the Identity theme.

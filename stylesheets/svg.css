@@ -1,0 +1,38 @@
+.tw { background-size: 50%; background-repeat: no-repeat; background-position: 50%; }
+.tw-airplane { background-image: url('../images/airplane.svg'); }
+.tw-apple { background-image: url('../images/apple.svg'); }
+.tw-art { background-image: url('../images/art.svg'); }
+.tw-bike { background-image: url('../images/bike.svg'); }
+.tw-book { background-image: url('../images/book.svg'); }
+.tw-cake { background-image: url('../images/cake.svg'); }
+.tw-car { background-image: url('../images/car.svg'); }
+.tw-cherries { background-image: url('../images/cherries.svg'); }
+.tw-chocolate { background-image: url('../images/chocolate.svg'); }
+.tw-cocktail { background-image: url('../images/cocktail.svg'); }
+.tw-dance { background-image: url('../images/dance.svg'); }
+.tw-elephant { background-image: url('../images/elephant.svg'); }
+.tw-icecream { background-image: url('../images/icecream.svg'); }
+.tw-japanese { background-image: url('../images/japanese.svg'); }
+.tw-martini { background-image: url('../images/martini.svg'); }
+.tw-moon { background-image: url('../images/moon.svg'); }
+.tw-movie { background-image: url('../images/movie.svg'); }
+.tw-peach { background-image: url('../images/peach.svg'); }
+.tw-pizza { background-image: url('../images/pizza.svg'); }
+.tw-pokeball { background-image: url('../images/pokeball.svg'); }
+.tw-pottery { background-image: url('../images/pottery.svg'); }
+.tw-stargazing { background-image: url('../images/stargazing.svg'); }
+.tw-strawberry { background-image: url('../images/strawberry.svg'); }
+.tw-wine { background-image: url('../images/wine.svg'); }
+
+.olp-project {
+  width: 460px;
+  height: 306px;
+}
+.olp-project-a {
+  background-color: #A1BBA2;
+  max-width: 100%;
+}
+.olp-project-b {
+  background-color: #C7E7E6;
+  max-width: 100%;
+}
